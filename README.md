@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alpkunt777
 - 👀 I’m interested in cyber security and software
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on nobody :(
+- 🌱 I’m currently learning C
+- 💞️ I’m collaborating with @M-Enes
 - 📫 You reach me to Discord: Alpkunt#4620
 
 <!---
